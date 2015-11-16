@@ -1,3 +1,3 @@
-SECRET_KEY = "Add your secret key here"
+SECRET_KEY = "OMGthis is a secret"
 
-FILE_PATH = "/file_path_to_directory/"
+FILE_PATH = "/User/Distilledltd/python"
