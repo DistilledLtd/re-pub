@@ -1,3 +1,3 @@
-EXTRA_SECRET_INFO: 'We like keeping secrets'
+EXTRA_SECRET_INFO: 'Add your secret info here'
 
-SOME_MORE_INFO: 'More info never hurt anyone'
+SOME_MORE_INFO: 'Shhhhhhh'
